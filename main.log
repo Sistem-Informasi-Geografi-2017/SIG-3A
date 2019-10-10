@@ -1,0 +1,180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2019.10.10)  10 OCT 2019 21:01
+entering extended mode
+**"D:/Kuliah/Semester 5/GIS/Tugas Mingguan/main.tex"
+("D:/Kuliah/Semester 5/GIS/Tugas Mingguan/main.tex"
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("D:/Kuliah/Semester 5/GIS/Tugas Mingguan\wileySix.cls"
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count79
+\ftnum=\count80
+\saveftnum=\count81
+\c@chapapp=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count92
+\savefootnum=\count93
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count94
+\hourcount=\count95
+\oldtime=\count96
+\probcount=\count97
+\subprobcount=\count98
+\c@subproblem=\count99
+\c@subproblem=\count100
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count101
+\c@appfootnote=\count102
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count103
+\c@algo=\count104
+\c@algorithm=\count105
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count106
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count107
+\lst@currlwidth=\dimen116
+\lst@column=\count108
+\lst@pos=\count109
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count110
+\lst@lineno=\count111
+\lst@maxwidth=\dimen119
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box27
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) ("D:/Kuliah/Semester 5/GIS/Tugas Mingguan\w-bookps.sty"
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box30
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 124.
+
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
+
+("C:\Users\Harun\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
