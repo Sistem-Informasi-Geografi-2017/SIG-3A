@@ -15,9 +15,11 @@ git clone https://github.com/AkunGithubAnda/SIG-3A.git
 cd SIG-3A
 ```
 
-Cara memperbaharui repository anda.
+Cara memperbaharui repository anda dari repository asli.
 ```
-git pull origin master
+git remote add upstream https://github.com/Sistem-Informasi-Geografi-2017/SIG-3A.git
+git fetch upstream 
+git pull upstream master
 ```
 
 Cara setelah memasukkan tugas anda.
@@ -28,9 +30,7 @@ git commit -m "Pesan commit anda"
 git push origin master
 ```
 
-Cara memperbaharui repository anda dari repository asli.
+Cara memperbaharui repository anda.
 ```
-git remote add upstream https://github.com/Sistem-Informasi-Geografi-2017/SIG-3A.git
-git fetch upstream 
-git pull upstream master
+git pull origin master
 ```
