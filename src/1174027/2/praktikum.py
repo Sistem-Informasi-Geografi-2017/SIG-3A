@@ -1,6 +1,6 @@
 # In[] : Praktikum1
 import shapefile
-harun = shapefile.Writer('soal1')
+harun = shapefile.Writer('soal1',shapeType=1)
 harun.shapeType
 harun.field("kolom1", "C")
 harun.field("kolom2", "C")
